@@ -16,7 +16,7 @@ Each requirement in the table is tied to a measurable outcome so it can be deter
 | Camera Operation | Able to capture images reliably | Image is recieved | No |
 | Video Capture | Able to capture low-resolution video | Real-time video streaming | No |
 | Data Packets | Packetizes image data for transmission | Packetizes with minimal loss | Yes |
-| Status Reporting | Reports device state | Reports imaging and operation status back to user | Yes |
+| Status Reporting | Reports device state | Reports imaging and operation status back to user | No |
 | UART Communication | Can send/recieve messages over UART | Complete data transmission between other subsystems | Yes |
 | Human-Machine Interface | Can visually display data to users | Able to clearly display imaging/video data | No |
 | HMI Camera Control | Able to pan camera left/right based on user input | Manual pan/tilt with screen display feedback | Yes |
